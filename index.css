@@ -1,0 +1,13 @@
+.mainContainer {
+    background-color: black;
+    padding: 2rem;
+}
+
+.display {
+    color: white;
+    background-color: blue;
+    text-align: right;
+    font-size: 2rem;
+    height:  2rem;
+    margin: 1rem;
+}
