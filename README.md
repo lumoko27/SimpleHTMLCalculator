@@ -7,6 +7,8 @@ SimpleHTMLCalculator is a basic HTML-based calculator that can perform basic ari
 1. [Overview](#overview)
 2. [Getting Started](#getting-started)
 3. [Using the Calculator](#using-the-calculator)
+4. [License](#license)
+5. [Contact](#contact)
 
 ## Overview
 
@@ -35,3 +37,11 @@ Here is a step-by-step guide on how to use the calculator:
 2. Press an operator button to select an operation.
 3. Press a digit button or the decimal button to input another number.
 4. Press the equals button to perform the calculation and display the result.
+
+## License
+
+This project is licensed under the MIT license.
+
+## Contact
+
+For any questions or concerns, please contact the project owner Lucas Kotliarenko (lumoko2@gmail.com).
